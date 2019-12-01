@@ -1,3 +1,65 @@
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <h2 align="center"> Using JSX</h2>
+
+  <p align="center">
+    Project developed with React that uses JSX to show its main differences
+    with HTML.
+    <br />
+    <a href="https://github.com/YairFernando67/jsx"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/YairFernando67/jsx/issues">Report Bug</a>
+    ·
+  </p>
+</p>
+
+
+
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
+
+* [About the Project](#about-the-project)
+  * [Built With](#built-with)
+* [Contact](#contact)
+* [Acknowledgements](#acknowledgements)
+
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+In this project we highlight the differences between JSX and HTML in a REACT
+application:
+<p> 
+  JSX is literally pure JavaScript but browsers do not know how to read JSX
+  so that's why we use Babel to convert it into JavaScript.
+</p>
+
+### Differences between html and jsx:
+* Adding custom stying to an element uses different syntax
+* Adding a class to an element uses different syntax-> Use className="btn"
+* JSX can reference JS variables very easly.
+* Diferent syntax for the for property on labels use this syntax htmlFor="name"
+
+### Built With
+The project was developed using these tools and technologies.
+* [REACT](https://es.reactjs.org/)
+* [JSX](https://reactjs.org/docs/introducing-jsx.html)
+
+
+<!-- CONTACT -->
+## Contact
+
+Yair Fernando Facio Fraga - [YairFernando67](https://github.com/YairFernando67) - yair.facio11@gmail.com  
+
+Project Link: [https://github.com/YairFernando67/jsx](https://github.com/YairFernando67/jsx)
+
+<!-- ACKNOWLEDGEMENTS -->
+<!-- ## Acknowledgements
+* [Normalize.css](https://necolas.github.io/normalize.css/) -->
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
